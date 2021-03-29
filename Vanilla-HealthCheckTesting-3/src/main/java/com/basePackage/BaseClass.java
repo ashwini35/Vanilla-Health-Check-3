@@ -73,7 +73,7 @@ public class BaseClass {
 			e.getMessage();
 		}
 		// This new path for jenkins
-		String newImageString = "http://localhost:8080/job/Vanilla-Test-Mav/ws/ExtentDemo/ScreenShot/" + filename + "_"
+		String newImageString = "http://localhost:8080/job/Vanilla-Test-Mav/Vanilla-HealthCheckTesting-3/ScreenShot/" + filename + "_"
 				+ dateName + ".png";
 		System.out.println(" <-----------coming for screenshot end----->");
 
