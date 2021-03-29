@@ -75,7 +75,7 @@ public class BaseClass {
 		// This new path for jenkins
 		String newImageString = "http://localhost:8080/job/Vanilla-Test-Mav/Vanilla-HealthCheckTesting-3/ScreenShot/" + filename + "_"
 				+ dateName + ".png";
-		System.out.println(" <-----------coming for screenshot end----->");
+		System.out.println(" <-----------coming for screenshot end------->");
 
 		return newImageString;
 	}
